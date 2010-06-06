@@ -1,0 +1,8 @@
+==================================
+Port of the Generators for Rails 3
+==================================
+By Kristian Mandrup
+---
+
+We should look at a project like 'cucumber-rails'to see how it is done in an elegant fashion. 
+This is just a baseline for now which has not been designed t be DRY.
