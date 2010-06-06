@@ -20,7 +20,7 @@ class BlueRidgeGenerator < Rails::Generator::Base
   end
 
   def self.source_root
-    File.join(gem_root, 'templates', 'blue_ridge')
+    File.join(gem_root, 'templates', 'skeleton')
   end
   
 end
